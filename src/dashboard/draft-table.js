@@ -1,6 +1,7 @@
 import React from "react";
 import { FaSort, FaCog, FaChartLine } from "react-icons/fa";
 
+// proposal data
 const proposals = [
   {
     title: "Trees of the Future - 2023",
